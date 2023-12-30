@@ -1,0 +1,6 @@
+bass3 fa si la si
+violin3 mi mi si la mi
+guitar3 do sol la re si si
+bass2 fa mi do si
+violin2 mi mi sol sol sol
+guitar2 la sol fa re sol fa

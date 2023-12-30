@@ -1,0 +1,2 @@
+guitar3 do sol la re si si
+guitar2 la sol fa re sol fa
